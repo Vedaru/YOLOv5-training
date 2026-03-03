@@ -1,0 +1,8 @@
+# Anti-UAV410 dataset for YOLOv5 training
+path: ./datasets/anti-uav
+train: train.txt
+val: val.txt
+test: test.txt
+
+names:
+  0: uav
